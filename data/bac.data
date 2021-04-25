@@ -1,0 +1,6 @@
+classes= 1
+train=data/bac/train.txt
+valid=data/bac/train.txt
+names=data/bac.names
+backup=backup/
+eval=bac
